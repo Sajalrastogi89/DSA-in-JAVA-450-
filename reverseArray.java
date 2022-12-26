@@ -1,4 +1,4 @@
-Reverse an Array->
+// Reverse an Array->
 public class reverseArray{
  static void reverse(int a[],int n)
 {
