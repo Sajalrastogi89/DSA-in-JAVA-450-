@@ -1,3 +1,4 @@
+package Arrays;
 public class MaxAndMin{
     public static void main(String[] args) {
         int[] A={1,2,3,1,2,5,6,3,5,2,8,7,5,2};

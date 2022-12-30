@@ -1,3 +1,4 @@
+package Arrays;
 
 // Maximum bags with full capacity ->
 
